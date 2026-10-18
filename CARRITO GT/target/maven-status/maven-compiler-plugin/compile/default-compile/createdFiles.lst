@@ -1,0 +1,5 @@
+com\carritogt\api\producto\Producto.class
+com\carritogt\api\producto\ProductoRepository.class
+com\carritogt\api\CarritoGtApplication.class
+com\carritogt\api\producto\ProductoController.class
+com\carritogt\api\producto\ProductoService.class
